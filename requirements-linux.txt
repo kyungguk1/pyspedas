@@ -1,0 +1,7 @@
+ipython
+pre-commit
+PyQt5
+PyQt6
+PySide2
+PySide6
+pyspedas
