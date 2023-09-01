@@ -1,4 +1,5 @@
 ipython
+plasmapy
 pre-commit
 PyQt5
 PyQt6
