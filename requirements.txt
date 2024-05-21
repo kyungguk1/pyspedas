@@ -1,3 +1,5 @@
+hapiclient
+hapiplot
 ipython
 plasmapy
 pre-commit
